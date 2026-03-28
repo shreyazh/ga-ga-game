@@ -1,5 +1,5 @@
 ## Credits
-CREATOR: Shreyash Srivastva
+CREATOR: Shreyash Srivastva <br>
 FONT CREDIT:
  John Bloor,
  Smoking Drum,
